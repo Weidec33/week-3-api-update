@@ -1,0 +1,12 @@
+
+spring: 
+  datasource:
+    password: Blacknig#33
+    username: chris
+    url: jdbc:mysql://localhost:3306/jeep
+
+
+logging:
+  level:
+    root: warn
+    '[com.promineotech]': debug
